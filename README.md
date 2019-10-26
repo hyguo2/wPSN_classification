@@ -7,7 +7,7 @@ This repository contains the implementation of the method in paper *Weighted gra
 - R 3.5.1
 - tensorflow 1.8
 
-## Installing
+### Installing
 To install the code, simply clone or download the whole repository.
 
 ```
